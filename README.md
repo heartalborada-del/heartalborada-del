@@ -15,7 +15,7 @@ SDCraft官网项目：
 
 bili-downloader项目
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heartalborada-del&repo=bili-downloader)](https://github.com/heartalborada-del/bili-downloader)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heartalborada-del&repo=Bili-Downloader-Reloaded)](https://github.com/heartalborada-del/Bili-Downloader-Reloaded)
 
 <!--
 **heartalborada-del/heartalborada-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
