@@ -1,33 +1,22 @@
-## About me<br>
-- 仅仅只是一个初三在读即将迈入高中大门的学生
-- 只会一点点🤏Java
-- 写的HTML能看就行
-- Cpp在学中
+## Hi there 🖐
+- 🏫 Just a simple senior high school student
+- 🎲 只会一点点🤏Java
+- ✈️ 我干啥都是菜鸡一枚
+- 📫 联系我:
+  - [![Steam](https://img.shields.io/badge/-Steam-blue?style=flat-square&logo=Steam&logoColor=fff)](https://steamcommunity.com/id/heartalborada/)
+  - [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=MicrosoftOutlook&logoColor=fff)](mailto://heartalborada@outlook.com)
+- 🦾 我最~~强~~菜的语言:
+  - [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Openjdk&logoColor=fff)](https://www.openjdk.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
+[![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff)](https://www.javascript.com/)
+- 📈 ~~我写出BUG最多~~最常用的语言:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartalborada-del&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartalborada-del&layout=compact&langs_count=6 "Top languages")]()
+- ⏲️ 每周的~~摸鱼~~时长:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartalborada-del&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-## ~~Help me~~
-帮帮孩子吧
-SDCraft官网项目：
+[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=heartalborada&range=last_7_days&layout=compact)](https://wakatime.com/@heartalborada "WakaTime")
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heartalborada-del&repo=sdcraft_web)](https://github.com/heartalborada-del/sdcraft_web)
-
-bili-downloader项目
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=heartalborada-del&repo=Bili-Downloader-Reloaded)](https://github.com/heartalborada-del/Bili-Downloader-Reloaded)
-
-<!--
-**heartalborada-del/heartalborada-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thanks to all visitors  
+[![visitors](https://profile-counter.glitch.me/heartalborada-del/count.svg)]()
