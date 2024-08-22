@@ -5,6 +5,7 @@
 - 📫 联系我:
   - [![Steam](https://img.shields.io/badge/-Steam-blue?style=flat-square&logo=Steam&logoColor=fff)](https://steamcommunity.com/id/heartalborada/)
   - [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=MicrosoftOutlook&logoColor=fff)](mailto://heartalborada@outlook.com)
+  - [![Mail](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=fff)](https://t.me/heartalborada)
 - 🦾 我最~~强~~菜的语言:
   - [![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Openjdk&logoColor=fff)](https://www.openjdk.org/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-purple?style=flat-square&logo=Kotlin&logoColor=fff)](https://kotlinlang.org/)
