@@ -20,4 +20,4 @@
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=heartalborada&range=last_7_days&layout=compact)](https://wakatime.com/@heartalborada "WakaTime")
 
 ## Thanks to all visitors  
-[![visitors](https://profile-counter.glitch.me/heartalborada-del/count.svg)]()
+[![visitors](https://count.getloli.com/get/@heartalborada-del?theme=rule34)]()
