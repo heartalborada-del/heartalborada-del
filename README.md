@@ -19,5 +19,6 @@
 
 [![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=heartalborada&range=last_7_days&layout=compact)](https://wakatime.com/@heartalborada "WakaTime")
 
+![heartalborada's top commit language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heartalborada-del&theme=transparent)
 ## Thanks to all visitors  
 [![visitors](https://count.getloli.com/get/@heartalborada-del?theme=rule34)]()
