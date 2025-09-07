@@ -12,7 +12,7 @@
 [![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3e74a2?style=flat-square&logo=TypeScript&logoColor=fff)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=fff)](https://www.javascript.com/)
-[![Golang](https://img.shields.io/badge/-Goland-00ADD8?style=flat-square&logo=go&logoColor=fff)](https://go.dev/)
+[![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=fff)](https://go.dev/)
 
 - 📈 ~~我写出BUG最多~~最常用的语言:
 
