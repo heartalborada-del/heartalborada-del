@@ -2,7 +2,7 @@
 - 🏫 Just a simple senior high school student
 - 🎲 只会一点点🤏Java
 - ✈️ 我干啥都是菜鸡一枚
-- ### GPG ket ids:
+- ### GPG key ids:
   - `49606E56CC6437A0`
  
 ![heartalborada's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartalborada-del&theme=default&show_icons=true)
