@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: wakatime
-          options: username=heartalborada-del&layout=compact
+          options: username=heartalborada&layout=compact
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
