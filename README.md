@@ -5,7 +5,7 @@
 - ### GPG key ids:
   - `49606E56CC6437A0`
  
-![heartalborada's GitHub stats](https://github-readme-stats.vercel.app/api?username=heartalborada-del&theme=default&show_icons=true)
+![heartalborada's GitHub stats](./profile/stats.svg)
 ## 📫 联系我
   - [![Steam](https://img.shields.io/badge/-Steam-blue?style=flat-square&logo=Steam&logoColor=fff)](https://steamcommunity.com/id/heartalborada/)
   - [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat-square&logo=MicrosoftOutlook&logoColor=fff)](mailto://heartalborada@outlook.com)
@@ -20,10 +20,10 @@
 
 ## 📈 ~~我写出BUG最多~~最常用的语言
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heartalborada-del&layout=compact&langs_count=6 "Top languages")]()
+![Top Langs](./profile/top-langs.svg)
 ## ⏲️ 每周的~~摸鱼~~时长:
 
-[![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=heartalborada&range=last_7_days&layout=compact)](https://wakatime.com/@heartalborada "WakaTime")
+[![Wakatime](./profile/wakatime.svg)](https://wakatime.com/@heartalborada "WakaTime")
 
 ![heartalborada's top commit language](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heartalborada-del&theme=default&utcOffset=8)
 
