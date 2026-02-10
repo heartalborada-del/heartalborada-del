@@ -1,5 +1,5 @@
 ## Hi there 🖐
-- 🏫 Just a simple senior high school student
+- 🏫 A 18 y.o. senior high school student
 - 🎲 只会一点点🤏Java
 - ✈️ 我干啥都是菜鸡一枚
 - ### GPG key ids:
