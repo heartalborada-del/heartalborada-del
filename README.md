@@ -2,8 +2,8 @@
 - 🏫 A 18 y.o. senior high school student
 - 🎲 只会一点点🤏Java
 - ✈️ 我干啥都是菜鸡一枚
-- ### GPG key ids:
-  - `49606E56CC6437A0`
+- ### PGP fingerprints:
+  - `B579 D114 D4D2 1F39 88E3 C0AB 4960 6E56 CC64 37A0`
  
 ![heartalborada's GitHub stats](./profile/stats.svg)
 ## 📫 联系我
