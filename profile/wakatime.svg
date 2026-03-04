@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="268.63050000000004"
+            width="251.7975"
             height="8"
             fill="#858585"
           />
@@ -137,9 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="268.63050000000004"
+            x="251.7975"
             y="0"
-            width="79.51500000000001"
+            width="87.0015"
             height="8"
             fill="#e34c26"
           />
@@ -147,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="348.1455000000001"
+            x="338.799"
             y="0"
-            width="72.91199999999999"
+            width="78.0735"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="421.05750000000006"
+            x="416.87249999999995"
             y="0"
-            width="24.598499999999998"
+            width="26.9235"
             height="8"
             fill="#292929"
           />
@@ -167,9 +167,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="445.65600000000006"
+            x="443.79599999999994"
             y="0"
-            width="15.1125"
+            width="16.554000000000002"
             height="8"
             fill="#083fa1"
           />
@@ -178,7 +178,7 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue.js - 57 mins
+        Vue.js - 49 mins
       </text>
     </g>
   
