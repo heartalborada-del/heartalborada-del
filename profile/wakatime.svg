@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="165"
-        viewBox="0 0 495 165"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="251.7975"
+            width="287.88149999999996"
             height="8"
             fill="#858585"
           />
@@ -137,19 +137,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="251.7975"
+            x="287.88149999999996"
             y="0"
-            width="87.0015"
-            height="8"
-            fill="#e34c26"
-          />
-        
-          <rect
-            mask="url(#rect-mask)"
-            data-testid="lang-progress"
-            x="338.799"
-            y="0"
-            width="78.0735"
+            width="71.0985"
             height="8"
             fill="#3178c6"
           />
@@ -157,9 +147,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="416.87249999999995"
+            x="358.97999999999996"
             y="0"
-            width="26.9235"
+            width="59.0085"
             height="8"
             fill="#292929"
           />
@@ -167,9 +157,9 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="443.79599999999994"
+            x="417.98849999999993"
             y="0"
-            width="16.554000000000002"
+            width="36.27"
             height="8"
             fill="#083fa1"
           />
@@ -178,32 +168,25 @@
     <g transform="translate(25, 25)">
       <circle cx="5" cy="6" r="5" fill="#858585" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Vue.js - 49 mins
+        Vue.js - 25 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML - 16 mins
+        TypeScript - 6 mins
       </text>
     </g>
   
     <g transform="translate(25, 50)">
-      <circle cx="5" cy="6" r="5" fill="#3178c6" />
-      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript - 15 mins
-      </text>
-    </g>
-  
-    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JSON - 5 mins
       </text>
     </g>
   
-    <g transform="translate(25, 75)">
+    <g transform="translate(230, 50)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         Markdown - 3 mins
