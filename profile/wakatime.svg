@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -129,7 +129,7 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="407.805"
+            width="367.9545"
             height="8"
             fill="#f34b7d"
           />
@@ -137,11 +137,21 @@
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="407.805"
+            x="367.9545"
             y="0"
-            width="56.35799999999999"
+            width="50.8245"
             height="8"
             fill="#292929"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="418.779"
+            y="0"
+            width="45.477"
+            height="8"
+            fill="#555555"
           />
         
       
@@ -156,6 +166,13 @@
       <circle cx="5" cy="6" r="5" fill="#292929" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
         JSON - 3 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#555555" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        C - 2 mins
       </text>
     </g>
   
