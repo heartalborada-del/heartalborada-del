@@ -4,7 +4,8 @@
 - ✈️ 我干啥都是菜鸡一枚
 - ### PGP fingerprints:
   - `B579 D114 D4D2 1F39 88E3 C0AB 4960 6E56 CC64 37A0`
- 
+  - `F772 CB69 7E95 818C A31B D4C6 9BBA 4262 3E40 4376`
+    
 ![heartalborada's GitHub stats](./profile/stats.svg)
 ## 📫 联系我
   - [![Steam](https://img.shields.io/badge/-Steam-blue?style=flat-square&logo=Steam&logoColor=fff)](https://steamcommunity.com/id/heartalborada/)
