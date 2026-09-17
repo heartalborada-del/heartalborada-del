@@ -1,8 +1,8 @@
 
       <svg
         width="495"
-        height="115"
-        viewBox="0 0 495 115"
+        height="140"
+        viewBox="0 0 495 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -138,33 +138,50 @@
             data-testid="lang-progress"
             x="0"
             y="0"
-            width="425.98650000000004"
+            width="411.9435"
             height="8"
-            fill="#083fa1"
+            fill="#f34b7d"
           />
         
           <rect
             mask="url(#rect-mask)"
             data-testid="lang-progress"
-            x="425.98650000000004"
+            x="411.9435"
             y="0"
-            width="39.0135"
+            width="43.895999999999994"
             height="8"
-            fill="#f34b7d"
+            fill="#f1e05a"
+          />
+        
+          <rect
+            mask="url(#rect-mask)"
+            data-testid="lang-progress"
+            x="455.8395"
+            y="0"
+            width="8.37"
+            height="8"
+            fill="#012456"
           />
         
       
     <g transform="translate(25, 25)">
-      <circle cx="5" cy="6" r="5" fill="#083fa1" />
+      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 1 hr 48 mins
+        C++ - 57 mins
       </text>
     </g>
   
     <g transform="translate(230, 25)">
-      <circle cx="5" cy="6" r="5" fill="#f34b7d" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ - 9 mins
+        JavaScript - 6 mins
+      </text>
+    </g>
+  
+    <g transform="translate(25, 50)">
+      <circle cx="5" cy="6" r="5" fill="#012456" />
+      <text data-testid="lang-name" x="15" y="10" class='lang-name'>
+        PowerShell - 1 min
       </text>
     </g>
   
